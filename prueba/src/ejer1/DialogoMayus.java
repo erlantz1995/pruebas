@@ -19,6 +19,7 @@ public class DialogoMayus extends JDialog implements ActionListener{
 		botones[0] = new JRadioButton("CAMBIAR A MAYUSCULAS");
 		botones[1] = new JRadioButton("Cambiar a mayusculas");
 		botones[2] = new JRadioButton("Cambiar A Mayusculas");
+		System.out.println("<asdjfbhkashf");
 		
 		ButtonGroup bg = new ButtonGroup();
 		bg.add(botones[0]);
